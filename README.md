@@ -46,13 +46,13 @@ https://docs.google.com/forms/d/e/1FAIpQLSfxcMV1pW5UwaiuK6bvAkl1JFsotcfDpGWeUNWc
 
 **👩🏻‍💻 Github :**
 
-https://github.com/shamiquekhan
+https://github.com/AYAAN-GANAI/
 
 **💡 Linkedin :**
 
-www.linkedin.com/in/shamique-khan
+www.linkedin.com/in/mohammad-ayaan-0902aa368
 
 **⚙️ Kaggle :**
-
-[https://www.kaggle.com/](https://www.kaggle.com/shamiquekhan)
+[
+[https://www.kaggle.com/](https://www.kaggle.com/mohammadayaanganai)
 # # digital-literacy-project
